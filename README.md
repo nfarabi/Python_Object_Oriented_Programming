@@ -11,4 +11,4 @@ Object Orientated Programming Exercise about Magician with following features..
 9. Cancel
 10. Status
 11. Exit/Quit
-This program follows decorator pattern
+12. This program follows decorator pattern
